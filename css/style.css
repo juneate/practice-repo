@@ -8,3 +8,11 @@ body {
 
   font: 400 normal 1rem helvetica, arial, sans-serif;
 }
+
+.line {
+  border-bottom: 0.25rem solid black;
+}
+
+.footer {
+  background-color: black;
+}
