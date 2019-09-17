@@ -1,0 +1,10 @@
+body {
+  background-color: lightgrey;
+
+  /* font-weight: 400;
+  font-style: normal;
+  font-size: 1rem;
+  font-family: helvetica, arial, sans-serif; */
+
+  font: 400 normal 1rem helvetica, arial, sans-serif;
+}
